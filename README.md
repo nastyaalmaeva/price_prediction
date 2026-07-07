@@ -48,7 +48,7 @@
 ```bash
 pip install -r requirements.txt
 
-python src/generate_data.py
-python src/preprocess.py
+python src/generate_data.py - необязательно
+python src/preprocess.py - необязательно
 python src/train.py
 python src/visualize.py
